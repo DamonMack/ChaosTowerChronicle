@@ -8,9 +8,23 @@ This is a project created using Unity3D to produce a game with multiple levels a
 - Playable WebGl Version of the game: https://play.unity.com/mg/other/group11_fp5
 - Game Demo and Trailer: https://youtu.be/-FbzeSC2wMM
 
-## Team
-
+## Team:
 1. Damon Mack
 2. Lowell Camp
 3. Morgan Forbes
 4. Justin Liu
+
+## Acknowledgements:
+**Assets from Packages Provided by CS3540:**
+- SNAPS Dungeon Prototyping Package
+- Synty Studios Simple Fantasy Package
+- Synty Studios Polygon Adventure Package
+- Blue Sci-FI UI Skin Pack Package
+- Wizard Spells Pack Package
+- Gabriel Aguiar’s Unique Projectiles Package
+- Ultimate Sound SFX Bundle <br>
+
+
+**Other Assets:** <br>
+- Spell icons: J. W. Bjerk (eleazzaar) -- http://opengameart.org 
+- Main Menu Background: https://www.freepik.com/free-photos-vectors/dungeon-background
